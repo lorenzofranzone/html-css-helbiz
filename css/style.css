@@ -237,6 +237,7 @@ main {
   height: 500px;
   background-size: cover;
   background-position: center;
+  margin-bottom: 64px;
 }
 
 .work-bg img.iphone {
